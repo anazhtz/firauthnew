@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654558359695",
+    "project_id": "firauthnew",
+    "storage_bucket": "firauthnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654558359695:android:5af37e3d93078c3cdb00fa",
+        "android_client_info": {
+          "package_name": "com.example.firauthnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-F7qnXJtPtObWJLuie6efHM6X8pzdQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
